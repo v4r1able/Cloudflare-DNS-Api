@@ -1,4 +1,5 @@
 <?php    
+//ninjanetwork
     $apikey = 'api-key'; // Cloudflare Global API Key
     $email = 'email'; // Cloudflare Hesabınızın Email Adresi
     $domain = 'siteadresi.com';  // zone_name // Cloudflare Dns Eklenecek Site
